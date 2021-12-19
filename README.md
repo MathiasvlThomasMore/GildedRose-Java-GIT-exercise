@@ -1,7 +1,8 @@
-# GIT Exercise
-The goal of this repository is to create an exercise for students on learning GIT. They will add features and unit tests
-for different products but also will have to create some changes in the main function for which it is important to avoid or resolve merge conflicts.
-The code is based on the Gilded Rose Refactoring Kata. It is used in the class of 2021 as well.
+#Purpose of repository
+
+I made this repository because the practice of making changes in projects is a very important skill to master.
+A lot of developer don't know how to correctly make change in a open project and just make changes without any information given.
+This is why it's a good practice to make little bits of changes to a program with good explanation why.
 
 # Gilded Rose Refactoring Kata
 
