@@ -1,4 +1,4 @@
-#Purpose of repository
+# Purpose of repository
 
 I made this repository because the practice of making changes in projects is a very important skill to master.
 A lot of developer don't know how to correctly make change in a open project and just make changes without any information given.
