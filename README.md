@@ -3,6 +3,7 @@
 I made this repository because the practice of making changes in projects is a very important skill to master.
 A lot of developer don't know how to correctly make change in a open project and just make changes without any information given.
 This is why it's a good practice to make little bits of changes to a program with good explanation why.
+Hopefully its usefull.
 
 # Gilded Rose Refactoring Kata
 
